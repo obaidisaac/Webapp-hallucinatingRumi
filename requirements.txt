@@ -1,0 +1,14 @@
+
+pandas
+uvicorn
+h5py==2.10.0
+python-multipart
+pickle
+typing
+fastapi
+pydantic
+from starlette.responses import HTMLResponse
+tensorflow==2.10.0
+string
+numpy
+keras
